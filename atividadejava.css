@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+}
+
+html{
+    background-color: blueviolet;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.cinema{
+    align-items: center;
+}
